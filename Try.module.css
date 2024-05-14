@@ -1,0 +1,30 @@
+.a{
+   color:#a103f6f1;
+   font-weight: 700;
+   font-size: 30px;
+   font-family:cursive
+}
+.b{
+   color:#14dc25;
+   font-weight: 700;
+   font-size: 30px;
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.c{
+   color:#2514dc;
+   font-weight: 700;
+   font-size: 30px;
+   font-family:fantasy
+}
+.d{
+   color:hwb(305 2% 4% / 0.894);
+   font-weight: 700;
+   font-size: 30px;
+   font-family:serif
+}
+.a1{
+   color:#f67403f3;
+   font-weight: 700;
+   font-size: 30px;
+   font-family:cursive
+}
